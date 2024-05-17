@@ -7,6 +7,8 @@ Open source data that covers historical sales of video games.
 # Tools
 Excel, Power Point
 # Insights & Recommendations
+(https://github.com/stepanova531/GameCo_Excel_Analysis/blob/main/Presentation_GameCo.pdf)
+
 - Given our strategy of getting new customers, we recommend redistributing the marketing funds across the regions as follows. Europe: allocate 37% of the budget; North America: give 31% of the budget; Japan: allot 19% of the budget; and place focus on Action which is among top-3 genre in all regions.  
 - We advise revising the popularity of genres on a regular basis as customer preferences vary over time.
 - We recommend focusing on the opportunity to capture the market niche in North America and Europe that has recently been lost by two major players, Nintendo and Activision.
