@@ -11,3 +11,6 @@ Excel, Power Point
 - We advise revising the popularity of genres on a regular basis as customer preferences vary over time.
 - We recommend focusing on the opportunity to capture the market niche in North America and Europe that has recently been lost by two major players, Nintendo and Activision.
 - Our competitors will most likely be Ubisoft and Electronic Arts, whose position on these markets has been trending upward. Nintendo, Activision and Ubisoft have stopped selling products in Sports segment which is in the top-3 most popular genres. Here we could find the opportunity for sales as well.
+# Key takeaways
+- Excel is a great tool which allows us to perform the end-to-end analysis, namely understanding and cleaning the data, conduction EDA, visualizing data insights. However, as I learnt later there are limitations to using Excel, for instance, analyzing larger data sets and big data.
+- There are three steps of great importance in developing insights: generating expectations, testing our hypothesis, and revising our initial expectations.
